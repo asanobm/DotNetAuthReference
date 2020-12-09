@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndividualAuthReference", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetReactTemplate", "DotNetReactTemplate\DotNetReactTemplate.csproj", "{DD3BBFB9-CED5-4AC3-83B6-C2ED7F39CBD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetReactIndividualReference", "DotNetReactIndividualReference\DotNetReactIndividualReference.csproj", "{FADF35AA-B5E4-45E6-83E6-995B4B08F158}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{DD3BBFB9-CED5-4AC3-83B6-C2ED7F39CBD4}.Release|x64.Build.0 = Release|Any CPU
 		{DD3BBFB9-CED5-4AC3-83B6-C2ED7F39CBD4}.Release|x86.ActiveCfg = Release|Any CPU
 		{DD3BBFB9-CED5-4AC3-83B6-C2ED7F39CBD4}.Release|x86.Build.0 = Release|Any CPU
+		{FADF35AA-B5E4-45E6-83E6-995B4B08F158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADF35AA-B5E4-45E6-83E6-995B4B08F158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADF35AA-B5E4-45E6-83E6-995B4B08F158}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FADF35AA-B5E4-45E6-83E6-995B4B08F158}.Debug|x64.Build.0 = Debug|Any CPU
+		{FADF35AA-B5E4-45E6-83E6-995B4B08F158}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FADF35AA-B5E4-45E6-83E6-995B4B08F158}.Debug|x86.Build.0 = Debug|Any CPU
+		{FADF35AA-B5E4-45E6-83E6-995B4B08F158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADF35AA-B5E4-45E6-83E6-995B4B08F158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FADF35AA-B5E4-45E6-83E6-995B4B08F158}.Release|x64.ActiveCfg = Release|Any CPU
+		{FADF35AA-B5E4-45E6-83E6-995B4B08F158}.Release|x64.Build.0 = Release|Any CPU
+		{FADF35AA-B5E4-45E6-83E6-995B4B08F158}.Release|x86.ActiveCfg = Release|Any CPU
+		{FADF35AA-B5E4-45E6-83E6-995B4B08F158}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
